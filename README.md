@@ -4,6 +4,7 @@
 This website is about Our Equilibrium collection promotes balance and calm.
 
 **View Website:https://saiemhossain.github.io/nft-preview-card-component-main/
+
 **Tools i have used:**
 
  1. Html5
